@@ -1,4 +1,4 @@
-﻿# atty
+# atty
 
 `atty` is a WPF-based Windows SSH client prototype inspired by PuTTY configuration flows and a dual-pane SSH + AI dashboard UI.
 
@@ -75,6 +75,11 @@ Password is entered manually in the app.
 3. Click `Open SSH` or `Open AI Terminal`.
 4. After connection, use the lower terminal input area to send commands.
 5. Click `Disconnect` to close the SSH session.
+
+## Documentation
+
+- [SSH Usage and Test Guide](docs/SSH_TESTING.md)
+- [SSH 사용 및 테스트 가이드](docs/SSH_TESTING.ko.md)
 
 ## Notes
 
