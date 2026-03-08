@@ -1,0 +1,32 @@
+﻿# Build output
+bin/
+obj/
+dist/
+
+# Node artifacts
+node_modules/
+
+# IDE / local state
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+*.pfx
+*.snk
+*.key
+*.pem
+
+# Local app settings that may contain machine-specific values
+appsettings.Development.json
+appsettings.Local.json
